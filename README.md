@@ -16,13 +16,13 @@ This is my personal portfolio website where I showcase my work in web developmen
 - [Contact](#contact)
 - [License](#license)
 
-## 🚀 Features
+## Features
 - **Responsive Design:** Adapts seamlessly to desktops, tablets, and mobile devices.
 - **Showcase of Work:** Features my projects in web development, design, voice acting, and photography.
 - **Interactive Animations:** Includes smooth transitions, scroll animations, and image galleries.
 - **Contact Form:** Allows visitors to easily get in touch with me.
 
-## 🛠️ Technologies Used
+## Technologies Used
 - **HTML5**
 - **CSS3 / SCSS**
 - **JavaScript (ES6+)**
@@ -34,10 +34,10 @@ This is my personal portfolio website where I showcase my work in web developmen
 ##  Important Notice
 > This repository **does not contain the full source code** of my portfolio website. The purpose of this repository is to showcase my work, and it is not intended for cloning or reuse.
 
-## 🌐 Live Demo
+## Live Demo
 Check out the live version of the website here: [Live Website](https://amertj.netlify.app)
 
-## 📬 Contact
+## Contact
 Feel free to reach out for business inquiries or collaborations:
 - **Email:** [your-email@example.com](mailto:tahrijouteyamer@gmail.com)
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/tahrijouteyamer/)
