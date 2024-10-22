@@ -40,7 +40,7 @@ Check out the live version of the website here: [Live Website](https://amertj.ne
 ## Contact
 Feel free to reach out for business inquiries or collaborations:
 - **Email:** [tahrijouteyamer@gmail.com](mailto:tahrijouteyamer@gmail.com)
-- **LinkedIn:** [tahrijouteyamer](https://www.linkedin.com/in/tahrijouteyamer/)
+- **LinkedIn:** [Amer Tahri Joutey](https://www.linkedin.com/in/tahrijouteyamer/)
 
 ## 📝 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
