@@ -93,8 +93,6 @@ document.addEventListener('scroll', function() {
   });
 });
 
-/*Scroll Sections Active Link*/
-
 const sections = document.querySelectorAll("section[id]");
 
 function scrollActive() {
@@ -214,3 +212,5 @@ sr.reveal(`.footer, footer__container`, {
   origin: "bottom",
   distance: "30px",
 });
+
+// Full code might be added later
