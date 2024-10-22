@@ -39,8 +39,8 @@ Check out the live version of the website here: [Live Website](https://amertj.ne
 
 ## Contact
 Feel free to reach out for business inquiries or collaborations:
-- **Email:** [your-email@example.com](mailto:tahrijouteyamer@gmail.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/tahrijouteyamer/)
+- **Email:** [tahrijouteyamer@gmail.com](mailto:tahrijouteyamer@gmail.com)
+- **LinkedIn:** [tahrijouteyamer](https://www.linkedin.com/in/tahrijouteyamer/)
 
 ## 📝 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
