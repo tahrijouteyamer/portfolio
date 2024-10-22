@@ -42,5 +42,5 @@ Feel free to reach out for business inquiries or collaborations:
 - **Email:** [tahrijouteyamer@gmail.com](mailto:tahrijouteyamer@gmail.com)
 - **LinkedIn:** [Amer Tahri Joutey](https://www.linkedin.com/in/tahrijouteyamer/)
 
-## 📝 License
+## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
