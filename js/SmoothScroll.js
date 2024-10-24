@@ -19,8 +19,8 @@
 var defaultOptions = {
 
     // Scrolling Core
-    frameRate        : 150, // [Hz]
-    animationTime    : 1000, // [ms]
+    frameRate        : 160, // [Hz]
+    animationTime    : 900, // [ms]
     stepSize         : 90, // [px]
 
     // Pulse (less tweakable)
@@ -30,12 +30,12 @@ var defaultOptions = {
     pulseNormalize   : 1,
 
     // Acceleration
-    accelerationDelta : 80,  // 50
-    accelerationMax   : 3,   // 3
+    accelerationDelta : 60,
+    accelerationMax   : 3,
 
     // Keyboard Settings
-    keyboardSupport   : true,  // option
-    arrowScroll       : 50,    // [px]
+    keyboardSupport   : true,
+    arrowScroll       : 50,
 
     // Other
     fixedBackground   : true, 
