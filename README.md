@@ -35,7 +35,7 @@ This is my personal portfolio website where I showcase my work in web developmen
 > This repository **does not contain the full source code** of my portfolio website. The purpose of this repository is to showcase my work, and it is not intended for cloning or reuse.
 
 ## Live Demo
-Check out the live version of the website here: [Live Website](https://amertj.netlify.app)
+Check out the live version of the website here in EN/DE: [Live Website](https://amertj.netlify.app)
 
 ## Contact
 Feel free to reach out for business inquiries or collaborations:
