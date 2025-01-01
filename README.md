@@ -1,6 +1,6 @@
 # ![readme_logo_final](https://github.com/user-attachments/assets/8bbd5221-577a-421a-aaba-257729279b12) Portfolio Website
 
-This is my personal portfolio website where I showcase my work in web development, design, voice acting, and photography. The website is fully responsive and visually modern, providing a comprehensive overview of my skills and projects.
+This is my personal portfolio website where I showcase my work in web development, design, voice acting, and photography. The website is fully responsive and visually modern, providing a comprehensive overview of my skills, projects and everything related to me.
 
 ————————
 
